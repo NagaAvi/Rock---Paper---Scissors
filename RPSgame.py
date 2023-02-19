@@ -29,3 +29,4 @@ elif user_choice == "3":
         print("You Win!\n")
 else:
     print("We're sorry for inconvinence. There is some error! Please try again!\n")
+#Code by NagaAvi
