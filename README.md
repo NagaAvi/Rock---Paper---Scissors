@@ -6,6 +6,7 @@ In this Python implementation of the game, the computer will randomly choose one
 Rock beats scissors
 Scissors beats paper
 Paper beats rock
+
 If both the computer and player choose the same option, the game will end in a tie.
 
 To play the game, the player will simply need to run the Python script and follow the prompts to enter their choice of rock, paper, or scissors. The game will then display the computer's choice and declare the winner.
